@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="StoresActivityGridView" type="id" />
+    <item name="IndividualStoreLL" type="id" />
+    <item name="StoreLogoIV" type="id" />
+    <item name="AliexpressTreadMarkIV" type="id" />
+    <item name="StoreNameTV" type="id" />
+    <item name="TradeMarkLL" type="id" />
+    <item name="ShippingTimeTV" type="id" />
+    <item name="TaxTV" type="id" />
+    <item name="UpcomingTV" type="id" />
+    <item name="SearchResultBackIV" type="id" />
+    <item name="SearchOnSearchFragmentIV" type="id" />
+    <item name="SearchIV" type="id" />
+    <item name="SearchFromAnotherVendorIV" type="id" />
+    <item name="ClearPasteLink" type="id" />
+    <item name="OurVendorsGrid" type="id" />
+    <item name="ActivitySearchET" type="id" />
+    <item name="FetchDetails" type="id" />
+    <item name="FragmentLL" type="id" />
+    <item name="nav_view" type="id" />
+    <item name="listview" type="id" />
+</resources>

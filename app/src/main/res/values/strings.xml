@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Myecommerce</string>
+    <string name="aliexpress">AliExpress</string>
+    <string name="flipkart">FlipKart</string>
+    <string name="amazon">Amazon</string>
+    <string name="stores_you_ll_love">Stores You\'ll Love</string>
+
+    <string name="shipping_time_20_to_40_days">Shipping Time: 20 to 40 days</string>
+    <string name="tax_estimated">Tax: Estimated</string>
+    <string name="shipping_time_10_20_days">Shipping Time:10-20 days</string>
+    <string name="tax_fixed">Tax:Fixed</string>
+</resources>
